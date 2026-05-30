@@ -20,7 +20,7 @@ La necesidad de fortalecer el marco jurídico y técnico en materia de cibersegu
 Los análisis realizados después de estos incidentes también señalaron diversas debilidades en la infraestructura tecnológica de algunos portales estatales. Entre los hallazgos más relevantes se mencionó la utilización de protocolos de seguridad considerados obsoletos, como TLS 1.0 y TLS 1.1, así como la ausencia de determinadas configuraciones de protección recomendadas para aplicaciones web modernas, entre ellas las políticas de Content-Security-Policy (CSP) y los mecanismos HSTS orientados a reforzar el uso de conexiones seguras.
 :::
 
-![RoboIdentidad]*(@site/static/img/ataque_fuerza_bruta.jpg)
+![RoboIdentidad](@site/static/img/ataque_fuerza_bruta.jpg)
 
 Ante este panorama, diversos especialistas en derecho, tecnología y ciberseguridad han destacado la importancia de fortalecer tanto las capacidades técnicas como el marco normativo nacional. Entre las propuestas más relevantes se encuentran el impulso de iniciativas legislativas relacionadas con la ciberseguridad, la consolidación de equipos especializados para la gestión y respuesta ante incidentes informáticos y una mayor cooperación internacional para combatir las amenazas digitales. Asimismo, se ha señalado la relevancia de instrumentos internacionales como el Convenio de Budapest, ampliamente reconocido como uno de los principales marcos de cooperación para la investigación y persecución de delitos informáticos que trascienden las fronteras nacionales.
 

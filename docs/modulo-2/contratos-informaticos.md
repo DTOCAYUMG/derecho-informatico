@@ -105,3 +105,5 @@ Uno de los aspectos más relevantes consiste en establecer quién será el titul
 ### Depósito de código fuente (*Source Code Escrow*)
 
 Como mecanismo de protección para el cliente, algunas organizaciones acuerdan depositar una copia del código fuente y la documentación técnica ante un tercero independiente. Este material podrá ser entregado al cliente en situaciones excepcionales, como la desaparición de la empresa desarrolladora, la quiebra de la organización o el abandono definitivo de los servicios de soporte. De esta manera, se garantiza la continuidad operativa del sistema y la posibilidad de realizar futuras modificaciones o mantenimientos.
+
+![InformaticaYDerecho](@site/static/img/contrato.webp)

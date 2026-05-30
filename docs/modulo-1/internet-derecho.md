@@ -13,3 +13,5 @@ El debate jurídico contemporáneo va mucho más allá de las relaciones comerci
 :::info[Decreto 57-2008]
 En Guatemala, aunque la Ley de Acceso a la Información Pública (Decreto 57-2008) proporciona mecanismos legales para que los ciudadanos puedan supervisar, confirmar o impugnar el tratamiento de sus datos personales en bases de datos nacionales, la aplicación efectiva de estas garantías enfrenta importantes limitaciones técnicas cuando se trata de plataformas tecnológicas de alcance global cuyas sedes y operaciones principales se encuentran fuera de la jurisdicción de los tribunales guatemaltecos.
 :::
+
+![Internet](@site/static/img/internet.jpg)

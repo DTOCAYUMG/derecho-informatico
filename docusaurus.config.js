@@ -102,7 +102,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Laboratorio para clase Derecho Informático, David Tocay.`,
+        copyright: `Copyright © ${new Date().getFullYear()} David Tocay. Este sitio web tiene fines exclusivamente educativos y académicos. Algunos recursos gráficos y audiovisuales pertenecen a terceros y son utilizados como material de referencia para el análisis y estudio de temas relacionados con el derecho informático. Todos los derechos sobre dichos materiales corresponden a sus respectivos propietarios.`,
       },
       prism: {
         theme: prismThemes.github,

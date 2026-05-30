@@ -38,8 +38,6 @@ Especifica si el usuario tendrá acceso a asistencia técnica, corrección de er
 
 Indica qué legislación y qué tribunales serán competentes para resolver cualquier controversia derivada de la relación contractual entre las partes.
 
----
-
 ## El Contrato de Servicios o Soporte Técnico
 
 Una vez que un sistema informático ha sido implementado, resulta necesario garantizar su funcionamiento continuo y su adaptación a nuevas necesidades. Para ello se utilizan los contratos de servicios o soporte técnico, mediante los cuales un proveedor especializado asume determinadas obligaciones relacionadas con el mantenimiento y la asistencia tecnológica.
@@ -62,8 +60,6 @@ Consiste en la incorporación de mejoras, nuevas funcionalidades o adaptaciones 
 
 Un elemento esencial de estos contratos son los **Acuerdos de Nivel de Servicio (SLA)**, que establecen indicadores concretos sobre la calidad del servicio. Estos acuerdos pueden definir tiempos máximos de respuesta, niveles mínimos de disponibilidad de servidores y procedimientos de atención ante incidentes. Su finalidad es garantizar que el proveedor cumpla con estándares previamente acordados y ofrecer mecanismos de responsabilidad cuando dichos compromisos no se respeten.
 
----
-
 ## El Contrato de Compraventa de Hardware
 
 El contrato de compraventa de hardware regula la adquisición de bienes tecnológicos tangibles, como computadoras, servidores, dispositivos de red, impresoras y otros componentes físicos utilizados en sistemas informáticos. A diferencia de los contratos relacionados con software, este tipo de acuerdo se aproxima más a las figuras tradicionales del derecho civil y mercantil, ya que implica la transferencia de propiedad de bienes materiales a cambio de un precio determinado.
@@ -85,8 +81,6 @@ El contrato suele establecer los plazos de garantía, las condiciones de reparac
 ### Obsolescencia tecnológica
 
 Debido a la rápida evolución de la tecnología, es común que se regulen aspectos relacionados con actualizaciones, compatibilidad futura y ciclos de vida de los equipos adquiridos.
-
----
 
 ## El Contrato de Desarrollo de Software (Software a la Medida)
 

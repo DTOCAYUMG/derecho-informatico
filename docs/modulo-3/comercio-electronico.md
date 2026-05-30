@@ -1,0 +1,20 @@
+---
+id: comercio-electronico
+title: "Comercio Electronico"
+sidebar_position: 1
+---
+
+## Comercio Electrónico
+
+El comercio electrónico comprende todas aquellas actividades comerciales que se realizan mediante el uso de tecnologías digitales y redes de comunicación. Esto incluye la compra y venta de bienes o servicios, la contratación en línea, las transferencias de información comercial y, en general, cualquier relación económica que se formalice a través de medios electrónicos. Desde el punto de vista jurídico, los mensajes de datos poseen la misma validez y eficacia que los documentos tradicionales en papel, lo que permite que las operaciones realizadas por medios digitales produzcan efectos legales plenamente reconocidos y puedan utilizarse como prueba en procedimientos administrativos o judiciales.
+
+La expansión de Internet ha dado lugar a distintos modelos de comercio electrónico según los actores que participan en la transacción. Entre los más conocidos se encuentra el modelo **B2C** (*Business to Consumer*), en el que una empresa comercializa productos o servicios directamente a los consumidores. También destaca el modelo **B2B** (*Business to Business*), utilizado para las relaciones comerciales entre empresas, especialmente en cadenas de suministro y distribución. Por su parte, el modelo **C2C** (*Consumer to Consumer*) facilita las transacciones entre particulares mediante plataformas digitales especializadas. A estos se suman modalidades vinculadas al sector público, como **G2C** (*Government to Citizen*), que permite la prestación de servicios gubernamentales y el pago electrónico de tasas o impuestos, y **B2G** (*Business to Government*), utilizado en procesos de contratación, licitación y provisión de bienes o servicios por parte de empresas privadas a entidades estatales.
+
+Debido a que las transacciones electrónicas suelen realizarse sin contacto físico entre las partes, la normativa aplicable al comercio electrónico establece importantes obligaciones de información y transparencia para los proveedores. Las empresas que ofrecen productos o servicios por medios digitales deben proporcionar de forma clara, permanente y accesible información relevante sobre su identidad, ubicación, condiciones de contratación y costos asociados a la compra. Asimismo, deben informar adecuadamente sobre precios, impuestos, gastos de envío y mecanismos de atención al cliente. Estas obligaciones buscan reducir la asimetría de información que puede existir entre proveedores y consumidores, fortaleciendo la confianza en las transacciones realizadas en línea.
+
+De igual forma, las plataformas de comercio electrónico deben respetar las normas de protección al consumidor y garantizar prácticas comerciales transparentes. Esto incluye la prohibición de publicidad engañosa, el respeto a las condiciones ofrecidas al momento de la contratación y la implementación de mecanismos que permitan a los usuarios gestionar o rechazar el envío de comunicaciones comerciales no solicitadas, comúnmente conocidas como *spam*.
+
+En el ámbito empresarial, gran parte de las operaciones que sustentan el comercio electrónico moderno funcionan gracias al Intercambio Electrónico de Datos (*Electronic Data Interchange* o EDI). Esta tecnología permite que los sistemas informáticos intercambien automáticamente documentos comerciales estructurados, como órdenes de compra, facturas o documentos de transporte, sin necesidad de intervención manual. Para ello se utilizan estándares internacionales como EDIFACT y ANSI X12, así como tecnologías más recientes basadas en formatos ampliamente utilizados en aplicaciones y servicios web, entre ellos XML y JSON. Estas herramientas facilitan la automatización de procesos, mejoran la eficiencia operativa y reducen los errores en la gestión de información comercial.
+
+## Recursos y Complementos
+[Caracteristicas del Comercio Electrónico](https://www.tiktok.com/@aprendizdemercadotecnia/video/7163789062535433478?is_from_webapp=1&sender_device=pc&web_id=7569045996462982657)

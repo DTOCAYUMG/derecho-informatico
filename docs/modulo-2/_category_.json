@@ -1,4 +1,8 @@
 {
   "label": "Módulo 2: Contratos y Propiedad",
-  "position": 2
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Análisis de la protección del software (Copyright y Copyleft), la equivalencia funcional en contratos electrónicos (EULA y SLA) y la validez probatoria de la firma electrónica avanzada mediante criptografía asimétrica."
+  }
 }

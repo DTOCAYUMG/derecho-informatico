@@ -1,4 +1,8 @@
 {
   "label": "Módulo 3: E-Commerce y Seguridad",
-  "position": 3
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Regulación de modelos comerciales digitales, la garantía constitucional del Habeas Data para la autodeterminación informativa y el marco penal contra delitos informáticos frente a auditorías de ciberseguridad."
+  }
 }

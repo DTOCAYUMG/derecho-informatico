@@ -14,7 +14,7 @@ export default function PresentationCard() {
             />
           </div>
           <div className={styles.content}>
-            <p className={styles.body}>Mi nombre es David Tocay</p>
+            <p className={styles.sectionTitle}>Mi nombre es David Tocay</p>
             <p className={styles.body}>
               Actualmente estudio Ingeniería en Sistemas en la Universidad Mariano Gálvez de Guatemala, donde
               curso el tercer semestre de la carrera.

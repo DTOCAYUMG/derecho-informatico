@@ -1,6 +1,6 @@
 .section {
   padding: 3.5rem 0 4.5rem;
-  background: linear-gradient(135deg, #f3f0e8 0%, #fbfaf7 55%, #ffffff 100%);
+  background: var(--ifm-background-color);
 }
 
 .container {
@@ -15,9 +15,9 @@
   gap: 2.5rem;
   align-items: center;
   padding: 2.5rem;
-  background: #ffffff;
+  background: var(--ifm-background-surface-color);
   border-radius: 28px;
-  box-shadow: 0 18px 40px rgba(30, 30, 30, 0.12);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.12);
 }
 
 .imageWrap {
@@ -37,7 +37,7 @@
 }
 
 .content {
-  color: #222222;
+  color: var(--ifm-color-content);
 }
 
 .kicker {
@@ -45,7 +45,7 @@
   letter-spacing: 0.18em;
   font-size: 0.72rem;
   font-weight: 700;
-  color: #7c6f5d;
+  color: var(--ifm-color-primary);
   margin: 0 0 0.5rem;
 }
 
@@ -53,13 +53,13 @@
   font-size: 2.3rem;
   font-weight: 800;
   margin: 0 0 0.35rem;
-  color: #1d1b19;
+  color: var(--ifm-heading-color);
 }
 
 .subtitle {
   font-size: 1rem;
   font-weight: 600;
-  color: #4a3f32;
+  color: var(--ifm-color-primary-dark);
   margin: 0 0 1.5rem;
 }
 
@@ -67,14 +67,14 @@
   font-size: 1rem;
   line-height: 1.7;
   margin: 0 0 1rem;
-  color: #2f2b26;
+  color: var(--ifm-color-content);
 }
 
 .sectionTitle {
   margin: 1.8rem 0 0.75rem;
   font-size: 1.05rem;
   font-weight: 700;
-  color: #1f2a24;
+  color: var(--ifm-color-primary);
   text-transform: uppercase;
   letter-spacing: 0.12em;
 }
